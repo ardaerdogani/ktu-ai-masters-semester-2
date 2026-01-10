@@ -19,4 +19,4 @@ Kaunas University of Technology.
 - Applied AI Research
 
 ## Author
-Arda
+Arda Erdoğan
