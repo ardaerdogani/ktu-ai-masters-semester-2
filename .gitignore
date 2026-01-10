@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model artifacts
+data/
+datasets/
+*.csv
+*.parquet
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.tflite
+*.onnx
+
+# Logs & outputs
+runs/
+logs/
+outputs/
+wandb/
+mlruns/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
